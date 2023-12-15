@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Build settings
+theme: jekyll-theme-architect
 
 
 title: Jingye (Kira) Tan, Ph.D.
@@ -28,8 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jingyetan
 
-# Build settings
-theme: jekyll-theme-architect
+
 
 
 # Exclude from processing.
