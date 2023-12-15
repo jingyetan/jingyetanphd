@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-theme-architect
 
 
 title: Jingye (Kira) Tan, Ph.D.
@@ -30,7 +29,7 @@ twitter_username: jekyllrb
 github_username:  jingyetan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
