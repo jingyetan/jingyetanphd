@@ -27,8 +27,8 @@ email: jt894@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Dr. Jingye (Kira) Tan, specializing in Uncertainty Quantification.
   Researcher, educator, and data scientist passionate about statistical modeling and machine learning.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jingyetan.github.io/jingyetanphd" # your GitHub Pages URL
+baseurl: "/jingyetanphd" # the subpath of your site, e.g. /blog
+url: "https://jingyetan.github.io" # your GitHub Pages URL
 twitter_username: # Add your Twitter username if you have one
 github_username: jingyetan
 
