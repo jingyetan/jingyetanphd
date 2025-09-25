@@ -18,26 +18,6 @@ title: "Jingye Tan - Personal Website"
 </div>
 
 <div class="container">
-  <!-- Quick Stats -->
-  <div class="stats-grid">
-    <div class="stat-card">
-      <span class="stat-number">5+</span>
-      <span class="stat-label">Years Research</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number">10+</span>
-      <span class="stat-label">Publications</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number">3</span>
-      <span class="stat-label">Main Interests</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number">∞</span>
-      <span class="stat-label">Curiosity</span>
-    </div>
-  </div>
-
   <!-- Professional Overview -->
   <div class="section-header">
     <h2 class="section-title">Professional Overview</h2>
