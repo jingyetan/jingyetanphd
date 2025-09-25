@@ -24,11 +24,13 @@ theme: jekyll-theme-architect
 
 title: Jingye (Kira) Tan, Ph.D.
 email: jt894@cornell.edu
-description:  Uncertainty Quantification
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website of Dr. Jingye (Kira) Tan, specializing in Uncertainty Quantification.
+  Researcher, educator, and data scientist passionate about statistical modeling and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jingyetan
+url: "https://jingyetan.github.io/jingyetanphd" # your GitHub Pages URL
+twitter_username: # Add your Twitter username if you have one
+github_username: jingyetan
 
 
 
