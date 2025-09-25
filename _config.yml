@@ -20,6 +20,9 @@
 
 # Build settings
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 title: Jingye (Kira) Tan, Ph.D.
